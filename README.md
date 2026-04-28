@@ -19,18 +19,6 @@
 
 ---
 
-## Projects
-
-### Online Multiplayer Card Game
-- Angular, ASP.NET, SignalR  
-- Real-time turn-based gameplay  
-
-### Mobile Task Manager
-- Flutter, Firebase, Spring Boot  
-- Cloud-synced task management  
-
----
-
 
 ## Tech Stack
 
@@ -42,10 +30,3 @@ Angular, React, ASP.NET, Spring Boot
 
 ### Tools
 Git, Azure DevOps, SQL Server, Linux, Ollama  
-
----
-
-## Contact
-
-- Email: Olivier.Tran@USherbrooke.ca  
-- GitHub: https://github.com/Symocha  
